@@ -31,7 +31,7 @@ math_agent
 └── requirements.txt
 
 
-#How to run:
+# How to run:
 1. Step1: Run knowledge_base.py to load the dataset and FAISS vector store
 2. Step2: Run main.py and give your query
 
@@ -60,6 +60,7 @@ Ans not found:
 13. Explain the equation of everything in imaginary space.
 14. What is the mathematical proof for God?
 15. Why is 7 heavier than 3 in calculus?
+
 
 
 
